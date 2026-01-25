@@ -1,0 +1,526 @@
+🟦 SLIDE 3 — Nuclear Power Plant Lifecycle
+(Reference Case: EPR – Flamanville)
+Nuclear Power Plant Lifecycle – From Construction to Long-Term Operations
+Sous-titre
+Reference case: EPR-type reactor (~1.6 GW) – European context
+Contenu du slide (visuel simple, très clean)
+1. Construction phase (CAPEX-heavy | multi-year)
+• Duration: 8–10 years
+• Highly subcontracted
+• Strong exposure to raw materials & energy prices
+• Front-loaded commodity risk
+👉 Key exposures
+Steel, cement, copper, aluminium, energy (diesel, electricity), specialized alloys
+2. Electricity generation phase
+• Operating life: 40–60 years
+• Revenues linked to power prices
+• Strong interaction with:
+◦ Fuel costs
+◦ Carbon pricing
+◦ Wholesale power markets
+👉 Key exposures
+Electricity prices, carbon (indirect), fuel costs
+3. Maintenance & fuel cycle (OPEX | recurring)
+• Continuous over plant lifetime
+• Predictable but long-term exposures
+• Attractive for rolling hedging strategies
+👉 Key exposures
+Metals, energy, uranium, logistics, replacement parts
+Each phase presents distinct and hedgeable commodity exposures, creating opportunities for
+structured, long-term client solutions.
+🟦 SLIDE 4 — Focus on Construction Phase: Scope &
+Segmentation
+(transition naturelle vers le dur)
+Titre
+Construction Phase – Scope Breakdown (EPR-type plant)
+Objectif du slide
+Expliquer comment on découpe la construction avant de chiffrer.
+Contenu
+Construction is not a single project, but a combination of industrial packages
+Proposed segmentation for commodity exposure analysis:
+1. Civil engineering & heavy infrastructure
+2. Electrical infrastructure & cabling
+3. Piping & fluid systems
+4. Conventional island (turbines, alternators)
+5. Nuclear island (reactor core & specific materials)
+👉 Segmentation aligned with:
+• Subcontracting reality
+• Distinct commodity baskets
+🟦 SLIDE 5 — Construction (1/5): Civil Engineering & Heavy
+Infrastructure (EPR Flamanville – order of magnitude)
+Scope (civil works)
+Reactor & containment structures, auxiliary/safety buildings, machine hall foundations, cooling
+structures, earthworks, temporary works.
+Key materials basket (more complete)
+Concrete & binders: ready-mix concrete, cement, SCMs (fly ash / slag), admixtures
+Reinforcement & structures: rebar, structural steel, wire rod
+Aggregates: sand, gravel, crushed stone
+Energy & site consumables: diesel (earthworks/cranes/generators), electricity (site), bitumen/
+asphalt (roads/platforms)
+Temporary works: formwork systems (steel/plywood), scaffolding, water
+Input (hedgeable / proxy)
+Quantity
+(indicati
+ve)
+How the number is built
+Indicati
+ve unit
+price
+Commodit
+y exposure
+(€)
+Concrete poured (non-traded →
+proxy via cement/energy)
+~400,000
+m³ Reported site figure — —
+Cement embedded in concrete ~120,000
+t
+400,000 m³ × 0.30 t cement/
+m³ (typical mix order of
+magnitude)
+~€150/t ~€18m
+Aggregates (sand + gravel +
+crushed stone)
+~720,000
+t
+400,000 m³ × 1.8 t
+aggregates/m³ (typical
+density)
+~€15/t ~€11m
+Rebar / reinforcement steel
+(traded proxy: rebar / scrap / iron
+ore)
+~50,000 t Reported site figure
+(“armatures”)~€600/t ~€30m
+Structural steel (frames, embeds,
+supports) (proxy: HRC / plate)
+~10,000–
+20,000 t
+Rule-of-thumb add-on vs
+rebar for heavy industrial
+civil works
+~€700/t ~€7–14m
+Diesel – construction equipment
+& generators (traded proxy:
+gasoil)
+~15–25m
+liters
+Earthworks + lifting + on-
+site generation (range, multi-
+year)
+~€1.62/
+L
+~€24–41m
+Bitumen/asphalt (platforms,
+roads, waterproofing) (proxy:
+crude / bitumen)
+~10–20k
+t
+Site access roads + platforms
+(range)~€500/t ~€5–10m
+🟦 SLIDE 6 — Construction (2/5): Electrical Infrastructure
+Embedded Copper & Aluminium Exposure
+(EPR – Flamanville reference | Order of magnitude)
+Scope (electrical infrastructure)
+• Internal power distribution (LV / MV / HV)
+• Safety & redundancy systems (Class 1E)
+• Instrumentation & control (I&C) networks
+• Switchyard & grid connection interface
+• Grounding & earthing systems
+Commodity exposure principle (1 phrase, très importante)
+Finished cables are non-traded products; commodity exposure refers to the embedded copper and
+aluminium content.
+Methodology (how quantities are derived)
+1. 2. 3. 4. Estimate installed cable length for an EPR-scale plant
+Convert km of cables → metal tonnage using average weights per km
+Split exposure between copper-based and aluminium-based conductors
+Convert metal tonnage → € exposure using indicative market prices
+Embedded metal
+(hedgeable)
+Quantity
+(indicative
+)
+Assumption / build-up Indicati
+ve price
+Commodity
+exposure (€)
+Copper (LV, MV, I&C
+cables)
+~15,000 –
+20,000 t
+~1,500–2,000 km of Cu cables ×
+8–10 t Cu/km (mixed sections)
+~€8,50
+0/t
+~€130 –
+170m
+Aluminium (HV, large
+cross-section cables)
+~8,000 –
+12,000 t
+Long-distance & HV conductors
+(lighter vs Cu)
+~€2,30
+0/t
+~€18 – 28m
+Steel (trays, supports,
+earthing) (proxy)
+~8,000 –
+12,000 t
+Cable trays, ladders, fixings across
+buildings~€700/t ~€6 – 8m
+✅ Total embedded metal exposure (electrical infrastructure): ~€155m – €205m
+Hedging logic
+Copper exposure → direct hedge via LME copper
+• Aluminium exposure → LME aluminium
+• Non-traded finished cables → proxy hedging on embedded metals
+• Possibility to structure hedges:
+◦ By construction milestones
+◦ By progressive cable installation schedule
+Electrical infrastructure represents a large, early and highly hedgeable metal exposure,
+dominated by copper content.
+🟦 SLIDE 7 — Construction (3/5): Piping & Fluid Systems
+Embedded Stainless Steel & Nickel Exposure
+(EPR – Flamanville reference | Order of magnitude)
+Scope (fluid & piping systems)
+• Primary & secondary cooling circuits
+• Steam lines and condensate systems
+• Safety-related fluid networks
+• Auxiliary cooling and water treatment systems
+• Valves, fittings, pumps casings (metallic parts)
+Key materials involved
+Stainless steels: austenitic grades (304 / 316 equivalents)
+Alloy steels: low-alloy & high-spec steels
+Critical alloying metals: nickel, chromium, molybdenum
+Carbon steel: for non-safety auxiliary systems
+Commodity exposure principle
+Piping systems are non-traded industrial products; commodity exposure refers to the embedded
+metal content, in particular stainless steel and its alloying elements.
+Methodology (how quantities are derived)
+1. 2. 3. 4. 5. Start from installed piping length & diameter typical of EPR plants
+Convert piping scope → total steel tonnage
+Split tonnage between carbon steel and stainless steel
+Decompose stainless steel → nickel content (key hedgeable driver)
+Convert metal tonnage → € exposure
+Embedded material
+(proxy-hedgeable)
+Quantity
+(indicative) Assumption / build-up Indicativ
+e price
+Commodity
+exposure (€)
+Total piping steel (all
+systems)
+~45,000 –
+60,000 t
+Large-diameter steam +
+extensive safety piping
+— —
+Carbon steel (auxiliary
+systems)
+~25,000 –
+35,000 t ~55–60% of total piping~€700/t ~€18 – 25m
+Stainless steel (primary
+& safety systems)
+~15,000 –
+20,000 t ~30–35% of total piping~€3,000/
+t
+~€45 – 60m
+Nickel embedded in
+stainless steel
+~1,200 –
+2,000 t
+~8–10% Ni content
+(304/316-type)
+~€17,00
+0/t
+~€20 – 34m
+✅ Total piping-related metal exposure (illustrative): ~€85m – €120m
+Hedging logic
+• Finished pipes are not traded
+• Cost is driven by:
+◦ Stainless steel prices
+◦ Nickel content (major volatility driver)
+• Proxy hedging strategy:
+◦ Direct nickel hedge (LME)
+◦ Partial steel hedge (HRC / scrap proxies)
+• Suitable for:
+◦ Phased hedging (aligned with piping installation)
+◦ Long lead-time procurement coverage
+One-line takeaway
+Piping systems create a material, mid-construction exposure to stainless steel and nickel, with
+strong proxy hedgeability via LME nickel.
+🟦 SLIDE 8 — Construction (4/5): Conventional Island
+Turbines, Alternators & Mechanical Systems
+(EPR – Flamanville reference | Order of magnitude)
+Scope (conventional island)
+• Steam turbines
+• Alternators / generators
+• Condensers
+• Heat exchangers
+• Mechanical auxiliaries (shafts, casings, supports)
+👉 Partie non nucléaire, mais forte intensité matière et valeur unitaire élevée.
+Key materials involved
+Carbon & alloy steels: forged steel, plates, shafts
+Copper: alternator windings
+Special alloys: nickel-based & chromium steels (high temperature / stress)
+Aluminium: secondary mechanical components
+Commodity exposure principle
+Equipment is not traded; commodity exposure reflects the embedded metals used in turbines and
+generators.
+Methodology (how quantities are derived)
+1. 2. 3. 4. Identify main rotating equipment (turbine + alternator)
+Estimate mass of each equipment (industrial benchmarks)
+Split mass by material type (steel vs copper vs alloys)
+Convert embedded metals → € exposure
+Steel (turbines, casings,
+shafts)
+~45,000 –
+60,000 t
+Turbine + condenser +
+mechanical systems~€700/t ~€32 – 42m
+Copper (alternator
+windings)
+~3,000 –
+5,000 t
+Large alternator coils (high
+purity Cu)~€8,500/t ~€26 – 43m
+Alloy steels / Ni-based
+alloys
+~2,000 –
+4,000 t
+High-stress / high-temp
+components~€4,000/t ~€8 – 16m
+Aluminium (secondary
+components)
+~1,000 –
+2,000 t Frames, cooling systems~€2,300/t ~€2 – 5m
+✅ Total conventional island metal exposure (illustrative): ~€70m – €105m
+Hedging logic
+• Steel exposure → proxy via HRC / scrap / iron ore
+• Copper exposure → direct hedge via LME copper
+• Alloy exposure → partial hedge via nickel
+• Long manufacturing lead times → pre-hedging opportunities
+One-line takeaway
+The conventional island concentrates high-value embedded metals, combining steel mass and
+copper intensity, making it a strong candidate for structured hedging.
+🟦 SLIDE 9 — Construction (5/5): Nuclear Island
+Fuel, Zirconium & Strategic Materials Exposure
+(EPR – Flamanville reference | Order of magnitude)
+Scope (nuclear island)
+• Reactor pressure vessel & internals
+• Fuel assemblies (initial core loading)
+• Control rods
+• Fuel cladding
+• Nuclear-grade structural components
+👉 Partie hautement réglementée, peu standardisable, mais exposition matière réelle.
+Key materials involved
+Fuel cycle: uranium (U₃O₈ → enriched fuel)
+Cladding: zirconium alloys (zircaloy)
+Structural metals: nuclear-grade steels
+Absorbers: boron (control systems)
+Commodity exposure principle
+Nuclear materials are not fully hedgeable through standard markets; exposure analysis is primarily
+strategic and economic, rather than trading-oriented.
+(Phrase très importante pour te protéger)
+Methodology (how quantities are derived)
+1. 2. 3. 4. Define reactor power: EPR ~1.6 GW
+Estimate initial core fuel load
+Identify key metallic components required for fuel assemblies
+Translate into indicative commodity exposure, where possible
+Material Quantity
+(indicative)
+Assumption / build-
+up
+Indicative
+unit price
+Economic
+exposure (€)
+Uranium (natural U₃O₈
+equivalent) ~450 – 550 t Initial core + fuel cycle
+conversion~€70/kg ~€30 – 40m
+Enriched uranium (fuel
+assemblies) ~90 – 110 t After enrichment (3–
+5%)
+— —
+Zirconium alloys (fuel
+cladding) ~400 – 600 t Cladding for full core~€40,000/t ~€16 – 24m
+Nuclear-grade steels ~15,000 –
+20,000 t
+Reactor internals &
+structures~€3,000/t ~€45 – 60m
+Boron-based materials Marginal Control rods /
+chemistry
+— —
+✅ Total nuclear island economic exposure (illustrative): ~€90m – €125m
+Hedging & strategic considerations (important nuance)
+• Uranium:
+◦ Illiquid vs LME metals
+◦ Long-term contracts dominate
+◦ Price risk is real but managed differently
+• Zirconium:
+◦ Highly specialized market
+◦ No direct hedging instruments
+• Steel:
+◦ Partial proxy hedging possible
+👉 This phase is less trading-oriented, but critical for full lifecycle risk mapping.
+One-line takeaway
+The nuclear island represents a strategic, less liquid exposure, completing the construction risk
+map even if standard hedging solutions are limited.
+🟦 SLIDE 10 — Electricity Generation Phase
+Power Price Exposure & Revenue Risk
+(EPR – Flamanville reference | Order of magnitude)
+Scope (power generation phase)
+• Electricity production and sales
+• Interaction with wholesale power markets
+• Long-term revenue exposure over plant lifetime (40–60 years)
+Commodity exposure principle
+During the generation phase, exposure shifts from input commodities to electricity price risk and
+revenue volatility.
+Methodology (how figures are derived)
+1. 2. 3. 4. Define installed capacity: EPR ≈ 1.6 GW
+Apply load factor (capacity factor)
+Convert into annual electricity output (MWh)
+Translate production into € revenue exposure using power price assumptions
+Indicative electricity production
+• Installed capacity: 1.6 GW
+• Load factor (long-term average): 80–90%
+• Annual operating hours: 8,760 h
+👉 Annual electricity production
+≈ 11 – 12.5 TWh / year
+Indicative revenue exposure
+Power price
+assumption
+Annual revenue
+exposure
+€50 / MWh €550 – 625m / year
+€70 / MWh €770 – 875m / year
+€100 / MWh €1.1 – 1.25bn / year
+(illustrative ranges – no price forecast implied)
+Risk drivers
+• Wholesale power prices
+• Regulatory frameworks (CfD, price caps, state support)
+• Demand–supply balance (baseload vs intermittent renewables)
+• Fuel & carbon price interactions (indirect)
+Hedging & structuring logic
+• Long-term power price exposure → forward sales / structured hedges
+• Possibility to design:
+◦ Fixed-price revenue profiles
+◦ Floor / collar structures
+◦ Progressive hedging over operating life
+One-line takeaway
+Electricity generation creates a large, recurring revenue exposure, opening the door to long-dated
+power hedging and structured solutions.
+🟦 SLIDE 11 — Maintenance & OPEX Phase
+Recurring Commodity Exposure Over Plant Lifetime
+(EPR – Flamanville reference | Order of magnitude)
+Scope (operations & maintenance)
+• Routine and heavy maintenance
+• Replacement of mechanical & electrical components
+• Fuel reload cycles
+• On-site logistics and services
+• Auxiliary power consumption
+👉 Phase moins visible, mais très intéressante commercialement car récurrente et prévisible.
+Commodity exposure principle
+Unlike construction CAPEX, OPEX exposures are recurring, creating opportunities for rolling and
+long-term hedging strategies.
+Methodology (how figures are derived)
+1. Identify annual maintenance drivers
+2. Translate maintenance activities into material consumption per year
+3. Convert into annual € exposure
+4. Extrapolate over plant lifetime
+Indicative annual OPEX commodity exposure
+Commodity (proxy-
+hedgeable)
+Annual quantity
+(indicative) Use case Indicative
+price
+Annual
+exposure (€)
+Steel & alloys ~3,000 – 5,000 t /
+year
+Replacement parts,
+piping sections~€1,200/t ~€4 – 6m
+Copper ~300 – 500 t / year Electrical maintenance,
+motors
+~€8,500/t ~€2.5 – 4m
+Nickel (embedded in
+inox)
+Uranium (reload
+cycles)
+Diesel & fuels ~80 – 120 t / year Corrosion-resistant
+~€17,000/
+components
+t
+Fuel replacement~€70/kg ~€1.5 – 2m
+~20 – 25 t U₃O₈
+eq / year
+~3 – 5m liters / year ~€1.4 – 1.8m
+Indirect Electricity
+(auxiliary)
+Backup generators,
+logistics
+Pumps, cooling,
+auxiliaries
+✅ Total recurring OPEX commodity exposure: ~€15m – €25m per year
+~€1.60/L ~€5 – 8m
+— —
+Lifetime perspective
+• Operating life: 40–60 years
+• Cumulative OPEX commodity exposure:
+👉 €600m – €1.2bn (undiscounted, illustrative)
+Hedging & structuring logic
+• Rolling hedges on:
+◦ Metals (Cu, Ni, steel proxies)
+◦ Energy (diesel, power)
+• Long-term fuel supply contracts
+• Potential for:
+◦ Multi-year frameworks
+◦ Index-linked pricing
+◦ Portfolio-level hedging (fleet of reactors)
+One-line takeaway
+Maintenance transforms nuclear assets into long-duration, repeatable commodity clients, well-
+suited for structured and rolling hedging solutions.
+🟦 Option alternative — Actor-based segmentation (how to do
+it)
+1⃣ Project owner / architect-engineer
+• EDF
+• Porte :
+◦ vision globale
+◦ planning
+◦ parfois une partie du risque long terme (fuel, power)
+👉 Exposition : uranium, power prices
+👉 Hedging : long-term, strategic
+2⃣ Civil works contractors
+• Bouygues Construction
+• VINCI Construction
+• Eiffage Génie Civil
+👉 Exposition directe :
+• acier
+• ciment
+• diesel
+👉 Très bons clients hedging (volumes élevés, marges sensibles)
+3⃣ Electrical & cabling manufacturers
+• Nexans
+• Prysmian Group
+👉 Exposition :
+• cuivre
+• aluminium
+• énergie
+👉 Hedging clair et liquide
+4⃣ Mechanical & turbine suppliers
+• Arabelle Solutions
+• Siemens Energy
+• Ansaldo Energia
+👉 Exposition :
+• acier forgé
+• cuivre
+• alliages
+5⃣ Nuclear engineering & fuel
+• Framatome
+• Westinghouse
+👉 Exposition :
+• inox
+• nickel
+• uranium (partiel)
+👉 Hedging plus stratégique
